@@ -23,7 +23,10 @@
   --tab-min-width: 76px;
 }
 */
+
+/* ------- Addition of Kosmoi: -------- */
 browser.tabs.tabMinWidth: 76px;
+/* ------- End of addition -------- */
 
 /* Disable tab label mask on hover */
 .tabbrowser-tab[visuallyselected=true]:hover,
