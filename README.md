@@ -12,3 +12,7 @@ In fact, I only have change the size of the single tabs on the top corner.
 Mainly, I created this project, that I can find this stuff easily and to create a installation guide. 
 
 The main work (99.9 %) is made by pellaeon!
+
+#Installation
+
+there's a little Installation-guide: https://github.com/kosmoi/Firefox-Photon-Clone/blob/main/INSTALLATION-GUIDE.md
