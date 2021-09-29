@@ -13,6 +13,6 @@ Mainly, I created this project, that I can find this stuff easily and to create 
 
 The main work (99.9 %) is made by pellaeon!
 
-#Installation
+# Installation
 
 there's a little Installation-guide: https://github.com/kosmoi/Firefox-Photon-Clone/blob/main/INSTALLATION-GUIDE.md
