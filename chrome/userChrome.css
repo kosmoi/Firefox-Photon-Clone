@@ -25,7 +25,9 @@
 */
 
 /* ------- Addition of Kosmoi: -------- */
-browser.tabs.tabMinWidth: 76px;
+#tabbrowser-tabs {
+  --tab-min-width: 100px;
+}
 /* ------- End of addition -------- */
 
 /* Disable tab label mask on hover */
