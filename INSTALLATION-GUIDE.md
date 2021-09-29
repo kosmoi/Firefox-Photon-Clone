@@ -5,7 +5,7 @@
 
 2. Open the 'about:config' site in firefox and set the 'toolkit.legacyUserProfileCustomizations.stylesheets' preference to 'true'
 
-3. Open the 'about:support' site and open the 'Profile Directory' (declared in the Table)
+3. Open the 'about:support' site and the 'Profile Directory' folder (declared in the Table)
 
 4. Copy the 'chrome'-folder of the repository in the 'Profile Directory' folder
 
