@@ -7,6 +7,6 @@
 
 3. Open the 'about:support' site and open the 'Profile Directory' (declared in the Table)
 
-4. Copy the 'chrome'-folder of the repository to the 'Profile Directory' folder
+4. Copy the 'chrome'-folder of the repository in the 'Profile Directory' folder
 
 5. Click on the 'Clear startup chache' button in the box of the top right corner in the about:support and restart the firefox browser.
