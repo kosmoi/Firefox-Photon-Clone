@@ -1,4 +1,4 @@
-# Installation Guide for the Firefox-Photon-Clone of pellaeon(/Kosmoi)
+# Installation Guide for the Firefox-Photon-Clone of pellaeon (and Kosmoi)
 
 
 1. Download the repository and unpack it.
