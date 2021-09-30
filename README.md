@@ -1,6 +1,6 @@
 # Firefox-Photon-Clone
 
-This is a tool by pellaeon [https://github.com/pellaeon], a BIT modyfied of me and with a new installation guide in English and german.
+This is a tool by @pellaeon [https://github.com/pellaeon], a BIT modyfied of me and with a new installation guide in English and german.
 
 
 # Changes from original
