@@ -12,6 +12,8 @@ Mainly, I created this project, that I can find this stuff easily and to create 
 
 The main work (99.9 %) is made by pellaeon!
 
+-----------------------------------------------------------------
+
 
 # Installation
 Guide for the Firefox-Photon-Clone of pellaeon (and Kosmoi)
