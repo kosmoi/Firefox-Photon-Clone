@@ -14,5 +14,14 @@ The main work (99.9 %) is made by pellaeon!
 
 
 # Installation
+Guide for the Firefox-Photon-Clone of pellaeon (and Kosmoi)
 
-there's a little Installation-guide: https://github.com/kosmoi/Firefox-Photon-Clone/blob/main/INSTALLATION-GUIDE.md
+1. Download the repository and unpack it.
+
+2. Open the 'about:config' site in firefox and set the 'toolkit.legacyUserProfileCustomizations.stylesheets' preference to 'true'
+
+3. Open the 'about:support' site and the 'Profile Directory' folder, which is declared in the Table in the 'about:sopport' page.
+
+4. Copy the 'chrome' folder of the repository in the 'Profile Directory' folder
+
+5. Click on the 'Clear startup chache' button in the box at the top right corner in the about:support and restart the firefox browser.
